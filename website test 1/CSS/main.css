@@ -1,0 +1,90 @@
+body {
+	font-family: Tahoma, sans-serif;
+	font-size: 17px;
+	padding: 0;
+	margin: 0;
+	color: #000;
+}
+
+div,p,a,span {
+	box-sizing:border-box;
+}
+h1,h2,h3,h4,h5,h6 {
+	margin: 0;
+}
+p {
+	margin: 0;
+}
+.container{
+	width:  1170px;
+	margin:  0 auto;
+
+}
+.header {
+	background:#fdcd3a;
+	padding-top: 53px;
+	padding-bottom: 100px;
+
+}
+
+
+.logo {
+	background: #000;
+	width: 64px;
+	height: 64px;
+	color: #fff;
+	font-size: 22px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 64px;
+	margin: 0 auto;
+
+}
+.offer {
+text-align: center;
+margin-top: 280px;
+}
+.title {
+text-align: center;
+font-size: 29px;
+font-weight: bold;
+margin-bottom: 20px;
+
+}
+.might {
+	background: #000;
+	color: #fff;
+	padding-top: 92px;
+	padding-bottom: 20px;
+}
+.section-title{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+		
+
+}
+
+.stack {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 65px;
+}
+.item {
+	width: 187px;
+	height: 183px;
+	background: #fff;
+	border-radius: 20px;
+
+}
+.footer {
+color: #fff;
+background: #000;
+font-size: 13px;
+
+}
+.credits {
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 75px;
+}

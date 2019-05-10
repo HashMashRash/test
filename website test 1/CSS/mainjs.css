@@ -1,0 +1,58 @@
+.block {
+	width: 500px;
+	height: 500px;
+	background: blue;
+	margin: 300px;
+	text-align: center;
+	color: #fff;
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+
+
+
+.cat {
+	margin: 0 auto;
+	padding-right: 33%
+
+}
+
+.animated {
+	opacity: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: url(https://clipart-db.ru/file_content/rastr/wood-texture-009.jpg); 
+}
+.header {
+	padding: 25px 0;
+	background-color: #000;
+}
+.nav {
+	padding: 25px 0;
+	background-color: red;
+	position: -webkit-sticky;
+}
+.header, .nav {
+	text-align: center;
+	color: #fff;
+}
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+h4 {
+	background: url(https://i.ytimg.com/vi/xdOq12JBXCs/hqdefault.jpg);
+	padding-bottom: 200px;
+	margin: auto;
+}
